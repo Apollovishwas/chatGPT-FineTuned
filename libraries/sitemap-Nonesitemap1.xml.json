@@ -1,0 +1,5 @@
+{
+	"version": 1,
+	"embedding_model": "openai.com:text-embedding-ada-002",
+	"bits": []
+}
